@@ -1,0 +1,25 @@
+body {
+	background-color: rgb(239, 245, 244);
+}
+
+aside {
+    border: 5px solid white;
+    border-radius: 5px;
+}
+
+table {
+    background-color: white;
+    border-radius: 15px;
+}
+
+form {
+    background-color: white;
+    border-radius: 15px;
+    padding: 1.5em;
+}
+
+.imgs {
+    background-color: white;
+    border-radius: 15px;
+    padding: 1.5em;
+}
